@@ -101,14 +101,6 @@ export class AncestryData {
 						}),
 						value: 2
 					},
-					{
-						feature: FeatureLogic.createFeature({
-							id: 'devil-feature-1i',
-							name: 'Silver Tongue',
-							description: 'You can twist how your words are perceived to get a better read on people. You gain an edge when attempting to discover an NPC’s motivations and pitfalls during negotiations.'
-						}),
-						value: 1
-					}
 				],
 				count: 3
 			}),
